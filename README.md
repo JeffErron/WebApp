@@ -1,2 +1,2 @@
 # WebApp
-Repository for pushing and pulling code for personal web application
+Repository for pushing and pulling code for personal web application solutions
